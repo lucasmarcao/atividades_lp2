@@ -1,0 +1,5 @@
+int;id;15
+String;nomepopular;30
+double;peso;20
+Date;nascimento;20
+String;tipodeanimal;30
