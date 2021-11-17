@@ -1,3 +1,0 @@
-int;id;20
-String;tipodeanimal;30
-double;descobrimento;20
