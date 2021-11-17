@@ -1,0 +1,6 @@
+int;id;15
+String;nome;30
+double;renda_per_capita;20
+Date;data_de_fundacao;20
+int;habitantes;30
+String;prefeito;20

@@ -1,0 +1,2 @@
+String;tipodeanimal;30
+Date;descobrimento;20
